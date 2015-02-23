@@ -35,31 +35,18 @@ Code, too!
 
 Tables are neat.
 
-index value error
------ ----- -----
-1     3.01  0.02
-2     2.56  0.03
-3     1.00  0.01
-4     2.05  0.05
-5     40.0  0.1
+index | value | error
+----- | ----- | -----
+1     | 3.01  | 0.02
+2     | 2.56  | 0.03
+3     | 1.00  | 0.01
+4     | 2.05  | 0.05
+5     | 40.0  | 0.1
 
 ***
-
-Definitions!
-
-Apples
-  : Taste p good.
-Oranges
-  : Also taste p good.
-Bananas:
-  : Yup, p good.
 
 What's a line block?
 
 | This is
 |   a line block.
 | Neat, huh?
-
-You cna even include math!
-
-$$m\ddot{x} = c\dot{x} + bx$$
