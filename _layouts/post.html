@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="author" content="{{ page.author }}">
 
   <title>{{ page.title }}</title>
 
@@ -57,12 +57,12 @@
       <div class="col-lg-8">
 
         <!-- Title -->
-        <h1 class="mt-4">Post Title</h1>
+        <h1 class="mt-4">{{ page.title }}</h1>
 
         <!-- Author -->
         <p class="lead">
           by
-          <a href="#">Start Bootstrap</a>
+          <a href="#">{{ page.author }}</a>
         </p>
 
         <hr>
