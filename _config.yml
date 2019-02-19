@@ -1,7 +1,19 @@
-name: Jeff Florek, Mechanical Engineer
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+title:             Jeff Florek
+email:             jkflorek@gmail.com
+description:       Mechanical Engineer
+author:            Jeff Florek
+#baseurl:           "/blog"
+url:               "https://jkflorek.com"
 
+# Social Profiles
+twitter_username:  jkflorek
+github_username:   jkflorek
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
 plugins:
-  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
   
