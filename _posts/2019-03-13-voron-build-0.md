@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "3D Printer Build Introduction"
-subtitle: "Making a Voron 1.6"
+title:  "Voron Build: Introduction"
+subtitle: "Building a Voron 1.6 3D Printer"
 author: "Jeff Florek"
 date:   2019-03-13 12:00:00 -0500
 background: '/images/posts/01.jpg'
