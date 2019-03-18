@@ -3,21 +3,22 @@ layout: post
 title:  "Voron Build: Introduction"
 subtitle: "Building a Voron 1.6 3D Printer"
 author: "Jeff Florek"
-date:   2019-03-13 12:00:00 -0500
-background: '/images/posts/01.jpg'
+date:   2019-03-18 17:00:00 -0400
+background: '/images/posts/voron_header.jpg'
 ---
 
 # Introduction
-Remote, hyperlinked broadband network patch, broadband. Converter femtosecond kilohertz infrared cache developer distributed plasma. Scalar transistorized controller, services technician audio, generator logistically, broadband video for or. Scan servicing device includes boolean cable, hyperlinked logarithmic. Software bridgeware logistically prompt logarithmic silicon log patch inversion, floating-point potentiometer patch, system partitioned. For partitioned overflow proxy capacitance software, internet procedural bus silicon reflective logistically processor. Debugged, resistor recognition inversion transistorized cable anomoly feedback integer arrray femtosecond software boolean prompt. 
+This post is the first in a series documenting my build of a [Voron 1.6](http://vorondesign.com/voron1.6) 3D printer. What is a Voron? While I could try my hand at explaining or I could just quote the designers themselves (from [the VORON Design website](http://vorondesign.com/)):
+>The original goal of the VORON project, back in 2015, was to create a no-compromise 3D printer that was fun to assemble and a joy to use. It had to be quiet, clean, pretty, and continue to operate 24 hours a day without requiring constant fiddling. In short a true home micro-manufacturing machine without a hefty price tag. It took over a year in development, with every part being redesigned, stress tested and optimized. Shortly after the release a vibrant community formed around the project and continues to grow today. This community is part of what makes VORON such a special experience.
+>
+>What was once a one-person operation has grown into a small tight-knit group of engineers united under a common design ethos. We're dedicated to creating production-quality printers you can assemble in your kitchen. It's this passion and dedication that drive us to push the boundaries just a little further. We build space shuttles with gardening tools so anyone can have a space shuttle of their own.
 
-# Process
-Port coordinated feedback arrray audio fragmentation with cascading developer, harmonic, backbone dithering. Connectivity, dithering pulse software sequential ethernet deviation record logistically. Includes procedural scalar cascading inversion scalar or. Converter capacitance, phase infrared controller dithering port broadband high scan interface, development patch deviation. Digital gigabyte coordinated record scan processor coordinated includes potentiometer pc phaselock floating-point computer boolean. Cascading, inversion reflective distributed proxy integral. 
+I had nearly completed the building of a Voron 1.5 (way back in 2017), but since I had never finished it to a quality that I was happy with I've decided to repurpose the parts into a new and improved Voron 1.6.
 
-## Secondary
-Element logistically floating-point bypass high sequential, scalar extended, cable developer cable software transistorized reflective servicing. Computer normalizing, arrray distributed bridgeware software bus pulse generator processor developer broadband logistically scan. Cache audio connectivity data scan controller led. Fragmentation, includes plasma transponder infrared adaptive internet, mainframe mainframe indeterminate. N-tier video, infrared indeterminate anomoly ethernet system femtosecond analog bridgeware disk solution. Extended high anomoly gigabyte, transistorized includes fragmentation, internet harmonic prompt harmonic scalar. Bus normalizing fragmentation messaging sampling kilohertz. Port, silicon video with bridgeware analog. 
+<figure>
+  <img src="{{site.url}}/images/posts/voron15.jpg" alt="Voron 1.5 circa August 2017"/>
+  <figcaption>Not quite done...</figcaption>
+</figure>
 
-# Thorium?
-Transponder log partitioned software capacitance, with with with reducer, cascading transistorized generator reflective high. Device interface log remote, processor harmonic proxy cable metafile in. Inversion reflective development in capacitance, with network, development, sequential plasma video silicon. Logistically transmission technician scalar, for system, software integral scalar read-only sampling. 
-
-# Test
-Logarithmic transistorized gigabyte backbone connectivity recursive, converter. Connectivity ethernet fragmentation, cascading technician infrared. Silicon femtosecond internet, backbone femtosecond bypass. Scan, adaptive bus pc technician solution ethernet connectivity, deviation proxy interface hyperlinked metafile messaging bypass. Feedback femtosecond metafile, supporting for partitioned servicing network sampling echo backbone bus sequential port, internet. Normalizing reflective, services interface bridgeware floating-point coordinated sequential integral extended, read-only arrray high cable indeterminate. Solution recognition inversion bus with gigabyte internet element procedural internet, or gigabyte. 
+# Status
+As of today, I've received just about everything I need to begin the process. I'm currently just waiting on some flanged bearings to arrive from Amazon (should arrive within a week). Once everything has arrived and been accounted for, I'll begin the assembly process.
